@@ -9,19 +9,19 @@ const users = [
   {
     firstName: "โอภาสพันธ์",
     lastName: "กลิ่นชื่นจิต",
-    email: "pun@gmail.com",
+    email: "opaspun_kl65@live.rmutl.ac.th",
     Position:"System Analysis"
   },
   {
     firstName: "ณัฐภัทร",
     lastName: "เจริญกิจหัตถกร",
-    email: "fig@gmail.com",
+    email: "nattapat_ch651@live.rmutl.ac.th",
     Position:"Developer"
   },
   {
     firstName: "พุฒิพงศ์",
     lastName: "หลีแก้วสาย",
-    email: "aun@gmail.com",
+    email: "puttipong_le65@live.rmutl.ac.th",
     Position:"Tester"
   }
 ];
